@@ -12,7 +12,7 @@ Read the following code below and run it in the editor. You are to modify it in 
 airline passangers. You want to take into account that families should seat together and so they should be allowed to get seats close to each other.
 
 Step 3
-Design/describe an algorithm in pseudo code that should be fair to seat allocation. 
+Design/describe an algorithm in English ( no code) that should be fair to seat allocation in your opinion.
 Code the parts where it says "Modify this" and run the code to test if the seats are being alocatted the way you expect.
 
 Questions to consider:
